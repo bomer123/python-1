@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+import colors as c
+import random 
+
+print(c.blue + 'hello ' + c.red + ' world!')
+print(c.yellow + 'hi')
+print('colors colors colors!!')
+print('python some python commands!')
+print("elif else if as for x in range boolean float and is import print while true while fasle def from")
+
+
